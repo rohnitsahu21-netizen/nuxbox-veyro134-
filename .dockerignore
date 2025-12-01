@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.gitignore
+.cache
+.upm
+.local
+downloads
+README.md
